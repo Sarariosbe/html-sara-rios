@@ -1,10 +1,35 @@
 h1 {
-  color: blueviolet;
+  color: rgb(228, 13, 13);
   font-size: 50px;
   text-align: center;
 }
 h2 {
-  color: rgb(216, 55, 82);
+  color: chocolate;
+  font-size: 45px;
+  text-align: center;
+}
+h3 {
+  color: rgb(255, 211, 17);
+  font-size: 45px;
+  text-align: center;
+}
+h4 {
+  color: forestgreen;
+  font-size: 45px;
+  text-align: center;
+}
+h5 {
+  color: skyblue;
+  font-size: 45px;
+  text-align: center;
+}
+h6 {
+  color: blueviolet;
+  font-size: 45px;
+  text-align: center;
+}
+p {
+  color: mediumpurple;
   font-size: 45px;
   text-align: center;
 }
