@@ -5,3 +5,23 @@
 #linea1 {
   background-color: yellow;
 }
+
+#linea2 {
+  background-color: white;
+  color: green;
+}
+
+.linea3y4 {
+  background-color: black;
+  color: white;
+}
+
+.linea5y6 {
+  text-transform: uppercase;
+  color: blue;
+}
+
+#linea7 {
+  text-shadow: 2px 2px violet;
+  font-size: 50px;
+}
