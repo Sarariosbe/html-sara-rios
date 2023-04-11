@@ -1,0 +1,7 @@
+#Mirco {
+  width: 300px;
+  height: 300px;
+  margin-left: 200px;
+  display: block;
+  filter: grayscale(100%) drop-shadow(5px 5px red);
+}
