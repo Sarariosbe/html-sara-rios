@@ -3,5 +3,38 @@
   height: 200px;
   margin-left: 600px;
   display: block;
-  filter: drop-shadow(5px 5px blue);
+  filter: drop-shadow(5px 5px red);
+}
+#titulomirco {
+  text-align: center;
+  color: red;
+}
+#parrafo1 {
+  text-align: center;
+}
+#daisy {
+  width: 200px;
+  height: 200px;
+  margin-left: 0px;
+  filter: drop-shadow(10px 10px orange);
+}
+#titulodaisy {
+  color: orange;
+  text-align: left;
+}
+#parrafo2 {
+  text-align: left;
+}
+#Max {
+  width: 200px;
+  height: 200px;
+  margin-left: 1200px;
+  filter: drop-shadow(10px 10px yellow);
+}
+#titulomax {
+  text-align: right;
+  color: yellow;
+}
+#parrafo3 {
+  text-align: right;
 }
